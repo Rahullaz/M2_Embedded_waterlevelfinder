@@ -1,1 +1,7 @@
-
+#Introduction
+##Reasearch
+In many conditions, the conventional liquid data monitoring based on an ultrasonic sensor
+provides the unreliable readings due to the dynamically changed water level.
+In addition, in some conditions, it needs not only measuring water level but also needs to measure the volume and control water surplus or deficiency. 
+To solve these issues,an accurate non-contact water measurement system based on a microcontroller and an ultrasonic sensor to measure the level 
+and volume of liquids in small tanks without any contact. 
