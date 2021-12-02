@@ -26,6 +26,11 @@ Strength:
 Weaknesses:
 1. They cannot tell you the exact distance or location of the obstacle.
 2. Marketing deficiencies
+Requirements:
+s.no    description             status
+HR01	Enable ICP Interrupt	  Implemented
+HR02	Enable internal pullups Implemented
+HR03	I2C and LCD	            Implemented
 Opportunities:
 1. New technology
 3. New markets or services
